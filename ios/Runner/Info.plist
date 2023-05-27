@@ -53,5 +53,9 @@
 	<string>Nous avons besoin d'acceder à la caméra</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Nous avons besoin d'acceder au micro</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Nous avons besoin de recupérer votre position</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Nous avons besoin de recupérer votre position</string>
 </dict>
 </plist>
